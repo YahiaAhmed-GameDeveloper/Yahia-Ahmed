@@ -22,8 +22,7 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" alt="visual-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"></code>
-<code><img height="20" alt="blender" src="https://raw.githubusercontent.com/github/explore/main/topics/blender/blender.png"></code>
-
+<code><img height="20" alt="blender" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"></code>
 <br />
 <br />
 
