@@ -29,9 +29,9 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 <br />
 
 ### 📊 GitHub Stats
-| <a href="https://github.com/yahiaahmed12372123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiaahmed12372123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yahia's github stats" /></a> | <a href="https://github.com/yahiaahmed12372123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiaahmed12372123&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahiaahmed12372123&show_icons=true&theme=buefy&hide_border=true" alt="Yahia's GitHub Stats" />
+</p>
 <br />
 
 #### 🎯 Top Projects
