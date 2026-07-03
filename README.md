@@ -26,22 +26,3 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <br />
-<br />
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiaahmed12372123&show_icons=true&theme=buefy&hide_border=true" alt="Yahia's GitHub Stats" />
-</p>
-<br />
-
-#### 🎯 Top Projects
-*(قم بتغيير PROJECT_NAME لأسماء مستودعات ألعابك الحقيقية ليظهر شكلها)*
-<a href="https://github.com/yahiaahmed12372123/PROJECT_NAME_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yahiaahmed12372123&repo=PROJECT_NAME_1&theme=buefy" />
-</a>
-<a href="https://github.com/yahiaahmed12372123/PROJECT_NAME_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yahiaahmed12372123&repo=PROJECT_NAME_2&theme=buefy" />
-</a>
-
-<br />
-<br />
