@@ -12,7 +12,6 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 - 💻 I love writing clean, optimized **C#** code for gameplay systems, mechanics, and tools
 - 🛠️ Interested in game architecture, performance optimization, and player experience
 - 🌱 Always learning new techniques in game dev — AI, physics, multiplayer, and more
-- 💬 Ask me anything about game development [here](https://github.com/YahiaAhmed-GameDeveloper/YahiaAhmed-GameDeveloper/issues)
 - 📫 Reach me at: **yahiaahmed12372123@gmail.com**
 
 <br />
@@ -43,9 +42,3 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 <br />
 <br />
 
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img align="right" alt="Yahia | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img align="right" alt="Yahia | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
