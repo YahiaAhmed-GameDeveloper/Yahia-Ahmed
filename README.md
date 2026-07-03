@@ -12,8 +12,8 @@ I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building
 - 💻 I love writing clean, optimized **C#** code for gameplay systems, mechanics, and tools
 - 🛠️ Interested in game architecture, performance optimization, and player experience
 - 🌱 Always learning new techniques in game dev — AI, physics, multiplayer, and more
-- 💬 Ask me anything about game development [here](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues)
-- 📫 Reach me at: **your-email@example.com**
+- 💬 Ask me anything about game development [here](https://github.com/YahiaAhmed-GameDeveloper/YahiaAhmed-GameDeveloper/issues)
+- 📫 Reach me at: **yahiaahmed12372123@gmail.com**
 
 <br />
 
