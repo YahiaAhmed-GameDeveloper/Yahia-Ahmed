@@ -1,45 +1,52 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <h1 align="center">Hey, I'm Yahia Ahmed 👋</h1>
+  <p align="center">Game Developer | Unity & C# 🎮</p>
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a passionate **Game Developer** from Egypt 🇪🇬, specialized in building games and interactive experiences with **Unity** and **C#**.
 
-**About me**
+### About me
+- 🎮 Game Developer working with **Unity Engine**
+- 💻 I love writing clean, optimized **C#** code for gameplay systems, mechanics, and tools
+- 🛠️ Interested in game architecture, performance optimization, and player experience
+- 🌱 Always learning new techniques in game dev — AI, physics, multiplayer, and more
+- 💬 Ask me anything about game development [here](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues)
+- 📫 Reach me at: **your-email@example.com**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+<br />
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+### Tech Stack
+<code><img height="20" alt="unity" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png"></code>
+<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="visual-studio" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"></code>
+<code><img height="20" alt="blender" src="https://raw.githubusercontent.com/github/explore/main/topics/blender/blender.png"></code>
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+<br />
+<br />
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+### 📊 GitHub Stats
+| <a href="https://github.com/YOUR_USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yahia's github stats" /></a> | <a href="https://github.com/YOUR_USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+<br />
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+#### 🎯 Top Projects
+<a href="https://github.com/YOUR_USERNAME/PROJECT_NAME_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_1&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/YOUR_USERNAME/PROJECT_NAME_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_2&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img align="right" alt="Yahia | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img align="right" alt="Yahia | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
